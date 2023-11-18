@@ -83,7 +83,7 @@
 #superior h1{
     color: rgb(24, 53, 58);
     font-weight: 100;
-    background-color: blue;
+
 }
 #superior p{
     color: rgb(120, 120, 120);
@@ -230,7 +230,7 @@ footer #derecha{
         position: absolute;
         top: 0;
         right: 0;
-        flex-direction: column;
+        display: inline;
         padding: 60px 0 ;
         width: 60%;
     }
